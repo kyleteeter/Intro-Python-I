@@ -15,5 +15,7 @@ yRound = round(y, 2)
 print("x is %s, y is %s, z is %s" % (x, yRound, z))
 
 # Use the 'format' string method to print the same thing
+ 
+print ("x is {}, y is {}, z is {}".format(x, yRound, z)) 
 
 # Finally, print the same thing using an f-string
