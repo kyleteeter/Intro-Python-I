@@ -19,3 +19,5 @@ print("x is %s, y is %s, z is %s" % (x, yRound, z))
 print ("x is {}, y is {}, z is {}".format(x, yRound, z)) 
 
 # Finally, print the same thing using an f-string
+
+print (f"x is {x}, y is {yRound}, z is {z}") 
